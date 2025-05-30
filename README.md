@@ -8,7 +8,7 @@
 🌱 &nbsp;Currently, I'm enhancing my skills in Microservices, Cloud Computing (Azure), and DevOps tools like Docker, Ansible, and Terraform.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at 801jhordy@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [CV](https://drive.google.com/file/d/13Ix_J2ygzz-ruymsC1KwzwcURsfI540J/view?usp=drive_link) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [CV](https://drive.google.com/file/d/1pdui98qr6qodfC7GQ3037PIBy-BSsuVm/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
 ### 🛠 &nbsp;Tech Stack
 
